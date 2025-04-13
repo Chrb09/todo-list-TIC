@@ -1,4 +1,4 @@
-import style from "./loading.module.css";
+import style from "./Loading.module.css";
 
 const Loading = () => {
   return <span className={style.Loading}>&#8987;</span>;
